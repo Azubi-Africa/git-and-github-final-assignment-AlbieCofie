@@ -21,8 +21,8 @@ The below table must contain the details of the repositories you will create, fi
 |  | Project | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 |  How To Create a Website in Wix    | Wix is a free and user-friendly website building platform that comes packed with some powerful built-in features.            | https://github.com/AlbieCofie/simple-wix-website.git      |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 2 |  Tip Calculator            |  This Program calculates the total amount of a meal purchased with a Fixed Tip         | https://github.com/AlbieCofie/tip-calculator.git       |
+| 3 |  Caesar's Cipher           |  In cryptography, a Caesar cipher, also known as shift cipher, is one of the simplest and most widely known encryption techniques.            | https://github.com/AlbieCofie/Caeser-s-Cipher-Encryption.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
